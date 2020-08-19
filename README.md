@@ -6,8 +6,8 @@ This is the official **Keras** implementations of our ECCV 2020 paper [*"On Tran
 
 #### 1.1 Backgrounds
 
-- Current Computational Pathology deep learning models are limited to particular diagnostic task for tissue/cancer classificaiton
-- 
+- Current deep learning models in Computational Pathology are limited to particular diagnostic task for tissue/cancer classificaiton
+- Development of each task requires expensive investment for creation of data labels done by pathologists
 
 #### 1.2 Contributions
 
@@ -31,7 +31,7 @@ Please cite our paper if you find our models useful.
 
 #### 2.1 [ADP Database](http://www.dsp.utoronto.ca/projects/ADP/)
 
-  - **Download**: The dataset is available on Atlas Project webpage under the EULA form you will sign during the registration: (http://www.dsp.utoronto.ca/projects/ADP).
+  - **Download**: The dataset is available on Atlas Project webpage under the EULA form you will sign during the registration from [ADP Website](http://www.dsp.utoronto.ca/projects/ADP).
   - **Content**: Contains **17,668** supervised annotated pathological images across multi-label tissue classes.
 
 #### 2.2 [Keras Codes for CNN Training](https://github.com/mahdihosseini/ADP)
