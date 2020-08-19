@@ -14,6 +14,9 @@ This is the official **Keras** implementations of our ECCV 2020 paper [*"On Tran
 - We introduce a new label transferring solution in computational pathologyfrom the ADP source domain to different target domain based on diagnostically relevant labels for tissue type and cancer grade classification
 - We introduce efficient CNN i.e. **HistoNet** that is robust and optimized toward color disparities and pixel-resolution for tissue recognitionin in WSI scans.
 
+**Figure 1: Histological Tissue Type (HTT) label trasnferring from ADP source domain into multiple target domains for tissue/cancer classification**
+![figure 1](figures/figure_1.png)
+
 #### 1.4 Citation
 
 Please cite our paper if you find our models useful.
